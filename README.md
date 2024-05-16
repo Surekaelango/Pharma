@@ -847,13 +847,14 @@ Publish the website in the LocalHost.
 ## OUTPUT:
 
 ## home.html
-![alt text](home.png)
+<img width="960" alt="home" src="https://github.com/Surekaelango/Pharma/assets/127727904/12d65844-fa46-44e5-8890-e098866c6025">
 ## products.html
-![alt text](products.png)
+<img width="960" alt="products" src="https://github.com/Surekaelango/Pharma/assets/127727904/4b3374e7-0f09-43bb-8bd0-a5bd1be62153">
 ## people.html
-![alt text](people.png)
+<img width="960" alt="people" src="https://github.com/Surekaelango/Pharma/assets/127727904/0a24a1bb-ae62-4ec6-9c84-6abc4ad918bd">
 ## contact.html
-![alt text](contact.png)
+<img width="960" alt="contact" src="https://github.com/Surekaelango/Pharma/assets/127727904/29f258f3-65c3-484b-bed2-47fef98208e1">
+
 
  
  
